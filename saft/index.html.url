@@ -1,6 +1,23 @@
-[InternetShortcut]
-URL=https://github.com/suSSiAmogus1/fortniteBattelpass/blob/main/index.html
-IDList=
-HotKey=0
-IconFile=C:\Users\Admin\AppData\Local\Mozilla\Firefox\Profiles\6n1ttbvw.default-release\shortcutCache\D3J7HywIBXjMVA7KQNUzXw==.ico
-IconIndex=0
+<!DOCTYPE html>
+<html>
+  <head>
+
+    <!-- Thumbnail image/gif -->
+    <meta property="og:image" content="https://raw.githubusercontent.com/suSSuiAmogus1/fortniteBattelpass/main/media/23141722-illustration-von-jung-anime-frau-lehrer-mit-grun-augen-und-blond-haare-sieht-aus-nach-vorne-im-schule-klasse-ai-generiert-foto.jpg">
+    <meta property="og:type" content="video.other">
+    
+    <!-- Video Link -->
+    <meta property="og:video:url" content="https://raw.githubusercontent.com/suSSiAmongus1/fortniteBattelpass/main/media/2024-01-08 22-07-16.mkv">
+    <!-- If you want a seamless transition between your thumbnail size and video size, adjust these values to match your thumbnail resolution. -->
+    <!-- However, it will be all wonky if your thumbnail is vertical and your video is horizontal. This works best with similar aspect ratios -->
+    <meta property="og:video:height" content="202">
+    <meta property="og:video:width" content="250">
+    
+    <!-- Stole the memes from https://github.com/iwakkrg/iwakkrg.github.io -->
+    
+    <!-- Redirect -->
+    <meta http-equiv="refresh" content="0; url=https://www.gutefrage.net/a/frage/warum-gibt-es-leute-die-fuesse-geil-finden" />
+  </head>
+  <body>
+  </body>
+</html>
